@@ -17,6 +17,10 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 padding: 20px 2%;
+z-index: 10;
+position: sticky;
+top: 0;
+background-color: black;
 }
 header button{
 padding:12px 22px;
